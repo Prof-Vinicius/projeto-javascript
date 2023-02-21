@@ -1,3 +1,3 @@
 # projeto-javascript
 
-Equipe: Professor Vinícius
+Professor: Vinicius
